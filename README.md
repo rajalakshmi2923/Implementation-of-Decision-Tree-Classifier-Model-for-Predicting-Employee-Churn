@@ -14,7 +14,7 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 4. From sklearn.tree import DecisionTreeClassifier and use criterion as entropy.
 5. Find the accuracy score of the model.
 6. Check the trained model.
-7. 
+
 ## Program:
 ```
 /*
@@ -67,7 +67,7 @@ dt.predict([[.5,.8,9,260,6,0,1,2]])
 ![Screenshot (150)](https://user-images.githubusercontent.com/87656716/173229263-d6bb186e-fee2-4eb0-92fb-3a7d30247023.png)
 ### Accuracy Score:
 ![Screenshot (152)](https://user-images.githubusercontent.com/87656716/173229369-1e5d4308-1c45-4539-af9d-f33329869e71.png)
-### Prediction:
+### Dataset Prediction:
 ![Screenshot (154)](https://user-images.githubusercontent.com/87656716/173229504-1740fc33-6c23-4ed1-90cb-8d2ed07546b5.png)
 
 ## Result:
